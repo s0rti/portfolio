@@ -1,14 +1,14 @@
-# pidoras
-robocode midel pidor
+
+robocode midel student
 
 # myself
 ![myself](https://memepedia.ru/wp-content/uploads/2018/09/net-eto-patrik-mem-shablon.jpg)
 
-### name: misha gondonio
+### name: Misha 
 
-### ya pidor 14 y.o
+### 14 y.o
 
-# im js developer
+# im JavaScript developer
 
 ## **here is exemple of my code**
 
@@ -43,6 +43,9 @@ robocode midel pidor
 ```
 * [my website](https://github.com/s0rti/search-github-account)
 
+* [my spotify theme](https://github.com/s0rti/grey-night)
+
+* * [my second spotify theme](https://github.com/s0rti/nightlabe)
 ### thanks for reading
 
 
