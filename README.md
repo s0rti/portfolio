@@ -41,11 +41,11 @@ robocode midel student
 
         })
 ```
-* [my website](https://github.com/s0rti/search-github-account)
+[my website](https://github.com/s0rti/search-github-account)
 
-* [my spotify theme](https://github.com/s0rti/grey-night)
+[my spotify theme](https://github.com/s0rti/grey-night)
 
-* * [my second spotify theme](https://github.com/s0rti/nightlabe)
+[my second spotify theme](https://github.com/s0rti/nightlabe)
 ### thanks for reading
 
 
